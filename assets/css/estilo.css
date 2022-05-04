@@ -1,8 +1,14 @@
+.galeria{
+    margin-left: 150px;
+}
+
 .imagenes >img{
     width: 17%;
+    margin-bottom: 10px
 }
 
 .imagenes{
     display: inline;
     width: 17%;
+    margin-bottom: 10px;
 }
