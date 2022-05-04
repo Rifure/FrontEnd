@@ -1,0 +1,8 @@
+.imagenes >img{
+    width: 17%;
+}
+
+.imagenes{
+    display: inline;
+    width: 17%;
+}
